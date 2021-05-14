@@ -4,7 +4,7 @@ title: "Blogging"
 description: "Personal Blogs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: '/Blogs'
 [//]: # google_analytics: 'UA-46278016-1'
 disqus: ''
 mailchimp-list: ''
