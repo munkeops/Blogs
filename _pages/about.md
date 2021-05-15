@@ -18,6 +18,14 @@ comments: false
 
 <p>Drop one in the issues section at my <a href="https://github.com/munkeops/Blogs">Github repository</a>!</p>
 
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/munkeops/Blogs"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 </div>
 
 <div class="col-md-4">
