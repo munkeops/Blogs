@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About author
 permalink: /about
 comments: false
 ---
@@ -8,27 +8,24 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Hi! I am a project enthusiasts. I like to explore and learn new things so that i can have fun making my own projects.</p>
+<p>Hi! I enjoy documenting my journey as I come across new things every day, may it be about food, scenic places I have visited, movies I liked or about projects/topics that peaked my interest. </p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h4>Questions or comments?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Drop one in the issues section at my <a href="https://github.com/munkeops/Blogs">Github repository</a>!</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Visit My profiles</h5>
+<h5>More About Me</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://munkeops.github.io">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Thanks for reading my articles! Hope they helped you or sparked your interest in these topics.</p>
 
-<a target="_blank" href="https://github.com/munkeops" class="btn btn-danger">Github</a> <a target="_blank" href="https://munkeops.github.io" class="btn btn-warning">Profile</a>
+<a target="_blank" href="https://github.com/munkeops" class="btn btn-danger">Github <i class="fab fa-github"></i></a> <a target="_blank" href="https://munkeops.github.io" class="btn btn-warning">Profile</a>
 
 </div>
 </div>
