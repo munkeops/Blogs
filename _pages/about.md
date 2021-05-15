@@ -11,6 +11,8 @@ comments: false
 <p>Hi! I enjoy documenting my journey as I come across new things every day, may it be about food, scenic places I have visited, movies I liked or about projects/topics that peaked my interest. </p>
 
 
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+
 
 <h4>Questions or comments?</h4>
 
