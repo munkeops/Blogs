@@ -18,7 +18,7 @@ comments: false
 
 <p>Drop one in the issues section at my <a href="https://github.com/munkeops/Blogs">Github repository</a>!</p>
 
-{% include github_issues.html %}
+{% include github_issues.html issue="Blogs" %}
 
 </div>
 
