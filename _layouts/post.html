@@ -140,6 +140,9 @@ post_class: post-template
 <!-- End Article
 ================================================== -->
 
+ {% include github_issues.html issue=page.title %}
+
+
 <!-- Begin Comments
 ================================================== -->
 {% if page.comments != false %}
