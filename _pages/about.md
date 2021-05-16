@@ -27,7 +27,7 @@ comments: false
 <div class="sticky-top sticky-top-80">
 <h5>More About Me</h5>
 
-<p>Thanks for reading my articles! Hope they helped you or sparked your interest in these topics.</p>
+<p>Thanks for reading my articles! You can get to know more about me below.</p>
 
 <a target="_blank" href="https://github.com/munkeops" class="btn btn-danger">Github <i class="fab fa-github"></i></a> <a target="_blank" href="https://munkeops.github.io" class="btn btn-warning">Profile</a>
 
