@@ -17,7 +17,7 @@ comments: false
 <h4>Questions or comments?</h4>
 
 <p>Drop one in the issues section at my <a href="https://github.com/munkeops/Blogs">Github repository</a>!</p>
-
+{% assign issue = "Blogs" %}
 {% include github_issues.html %}
 
 </div>
