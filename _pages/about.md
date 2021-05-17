@@ -2,7 +2,7 @@
 layout: page
 title: About author
 permalink: /about
-comments: false
+
 ---
 
 <div class="row justify-content-between">
