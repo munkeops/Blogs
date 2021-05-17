@@ -149,8 +149,8 @@ post_class: post-template
     <div class="container">
         <div id="comments" class="row justify-content-center mb-5">
             <div class="col-md-8">
-                {% assign issue = page.title %}
-                {% include github_issues.html %}
+                {% assign issue = page.url %}
+                {% include github_issues.html%}
             </div>
         </div>
     </div>
