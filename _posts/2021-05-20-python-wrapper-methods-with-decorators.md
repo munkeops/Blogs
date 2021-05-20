@@ -3,7 +3,7 @@ layout: post
 title: "Python Wrapper methods with Decorators"
 author: munkeops
 categories: [Python]
-image: assets/images/14.jpg
+image: "https://www.psdgraphics.com/file/red-at-symbol.jpg"
 featured: true
 hidden: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Never stopped worrying or loving the bomb"
 author: munkeops
-categories: [ Jekyll ]
+# categories: [ Jekyll ]
 image: assets/images/14.jpg
 hidden: true
 ---
