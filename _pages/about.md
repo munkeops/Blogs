@@ -8,7 +8,7 @@ permalink: /about
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Hi! I enjoy documenting my journey as I come across new things every day, may it be about food, scenic places I have visited, movies I liked or about projects/topics that peaked my interest. </p>
+<p>Hi! I enjoy documenting my journey as I come across new things every day, may it be about food, scenic places I have visited, movies I liked or about projects/topics that peaked my interest. Also I am a huge Naruto Fan - Dattebayo! </p>
 
 
 <p class="mb-5"><img class="shadow-lg" src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/07/uzumaki-naruto.jpg" alt="my fav anime character naruto" /></p>
