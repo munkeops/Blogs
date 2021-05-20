@@ -11,7 +11,7 @@ permalink: /about
 <p>Hi! I enjoy documenting my journey as I come across new things every day, may it be about food, scenic places I have visited, movies I liked or about projects/topics that peaked my interest. </p>
 
 
-<p class="mb-5"><img class="shadow-lg" src="https://comicvine1.cbsistatic.com/uploads/scale_medium/11120/111207326/4487717-render-naruto-rasengan1.jpg" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/07/uzumaki-naruto.jpg" alt="my fav anime character naruto" /></p>
 
 
 <h4>Questions or comments?</h4>
