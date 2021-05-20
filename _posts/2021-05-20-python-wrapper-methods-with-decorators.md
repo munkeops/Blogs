@@ -3,7 +3,7 @@ layout: post
 title: "Python Wrapper methods with Decorators"
 author: munkeops
 categories: [Python]
-image: "https://www.psdgraphics.com/file/red-at-symbol.jpg"
+image: "https://www.seriousfacts.com/wp-content/uploads/2017/05/australia-top-10-species-of-the-most-lethal-snakes.jpg"
 featured: true
 hidden: false
 ---
