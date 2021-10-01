@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Zeek - A machine learning based approach to NIDS"
+title: "ML/AI based solution that could increase Cart Conversion Rate"
 author: munkeops
 categories: [hackathon,ml,dell,python]
-image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcozebeweging.com%2Fepeml%2FS5uRifMm9qHXVe1YWFWYNQHaHa.jpg&f=1&nofb=1"
+image: assets/images/digitalfootprint.png
 featured: true
 hidden: false
 ---
@@ -12,7 +12,7 @@ Hi so this blogs about my product that I presented at the Hack2Hire Hackathon by
 
 ## Background 
 
-The topic - " ML/AI based solution that could increase Cart Conversion Rate" originated from a real life issue that Dell faced in their day to day E-commerce. The issue was that, several users visit the Dell website to purchase their products and browse through their technologies and services. Customers tend to shortlist and add products to their cart but most of the times do not end up purchasing the product. This could be due to a variety of reasons, better discounts, not a very friendly website (design and speed) hence trust issues etc. (These reasons were not shared with us). Hence based on statistics if even 1% of the crowd that added products to their cart could be somehow convinced to purchase that product, instead of letting it stay stale in the cart, it could lead to billions and trillions of profit to Dell. Hence for this topic with the use of AI/ML we had to somehow work on increasing the cart conversion rate. The catch attached this was that we in no way had to offer discounts or reduce costs of the product in anyway.   
+The topic - "ML/AI based solution that could increase Cart Conversion Rate" originated from a real life issue that Dell faced in their day to day E-commerce. The issue was that, several users visit the Dell website to purchase their products and browse through their technologies and services. Customers tend to shortlist and add products to their cart but most of the times do not end up purchasing the product. This could be due to a variety of reasons, better discounts, not a very friendly website (design and speed) hence trust issues etc. (These reasons were not shared with us). Hence based on statistics if even 1% of the crowd that added products to their cart could be somehow convinced to purchase that product, instead of letting it stay stale in the cart, it could lead to billions and trillions of profit to Dell. Hence for this topic with the use of AI/ML we had to somehow work on increasing the cart conversion rate. The catch attached this was that we in no way had to offer discounts or reduce costs of the product in anyway.   
 
 ## Logistics 
 
