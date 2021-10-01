@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ML/AI based cart Conversion"
+title: "Zeek - A machine learning based approach to NIDS"
 author: munkeops
-categories: [Hackathon]
-image: assets/images/digitalfootprint.png
+categories: [hackathon,ml,dell,python]
+image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcozebeweging.com%2Fepeml%2FS5uRifMm9qHXVe1YWFWYNQHaHa.jpg&f=1&nofb=1"
 featured: true
 hidden: false
 ---
