@@ -16,6 +16,8 @@ Hi guys, here I am gonna talk about my full stack project Poke2 was developed in
 
 We used the MERN stack for this application. Mongo Atlas served as our database, while the front end was developed in ReactJS. The backend is developed in a node-express server and is independent of the front end. 
 
+![mern](https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg)
+
 ## Architecture
 
 We followed the Micro Service Architecture for deployment. The micro service architecutre essentially entails that different aspects/features of the project can be worked on independently and deployed separately. In this manner the application is not a whole and hence in case of an issue the entire website dosent need to brought down. We can continue to work and upgrade independent features and incorporate them onto websites.
