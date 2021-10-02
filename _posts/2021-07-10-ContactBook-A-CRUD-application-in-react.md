@@ -2,7 +2,7 @@
 layout: post
 title: "ContactBook A CRUD application in ReactJS"
 author: munkeops
-categories: [react, mongodb]
+categories: [react, mongodb, project]
 image: assets/images/contactbook.png
 featured: false
 hidden: false
