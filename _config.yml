@@ -16,13 +16,14 @@ authors:
   munkeops:
     name: munkeops
     display_name: munkeops
-    gravatar: 'assets/images/avatar.png'
+    avatar: assets/images/avatarrohan.svg
     
-    [//]: # email: wowthemesnet@gmail.com
-    
+    # gravatar: assets/images/avatar.png
+    # gravatar: b1cc14991db7a456fcd761680bbc8f81    
+    # [//]: # email: wowthemesnet@gmail.com
     web: https://munkeops.github.io/
     
-    [//]: #twitter: https://twitter.com/wowthemesnet
+    # [//]: #twitter: https://twitter.com/wowthemesnet
     
     description: "Hi I am just another guy trying to learn new things everyday and share my experiences. Hope you gain something in your read !"
   

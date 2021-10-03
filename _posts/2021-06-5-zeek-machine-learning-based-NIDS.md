@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zeek - A machine learning based approach to NIDS"
+title: "Zeek - An NIDS for Machine Learning"
 author: munkeops
 categories: [internship,python,nids]
 image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcozebeweging.com%2Fepeml%2FS5uRifMm9qHXVe1YWFWYNQHaHa.jpg&f=1&nofb=1"
@@ -10,7 +10,7 @@ hidden: false
 
 ## ZeekDoc
  
-## Bro/Zeek 
+<!-- ## Bro/Zeek  -->
 
 ### What is Zeek?
 
