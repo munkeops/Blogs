@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Get started with Intel's Openvino"
+title: "Get started with Intel's OpenVINO"
 author: munkeops
 categories: [computer vision, python, openvino]
-image: "https://www.embarcados.com.br/wp-content/uploads/2019/01/openvino.jpg"
+image: "https://miro.medium.com/max/1000/1*Xa8UkrkzVpyirla4TvSYeQ.jpeg"
 featured: false
 hidden: false
 ---
