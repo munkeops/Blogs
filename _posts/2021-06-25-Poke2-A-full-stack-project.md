@@ -38,7 +38,18 @@ The game is suppose to be a replica with our own touch to it of the popular poke
 
 ## Implementation Logics involved
 
-Since it had to be a 1v1 game we had to develop an application that could dynamically assign rooms and communicate with the server and with the player all efficiently and in real time. We employed the use of websockets for active communication. 
+Since it had to be a 1v1 game and support all players simultaneously we had to dynamically assign rooms that could communicate with the server and with the player all efficiently and in real time. This was done with the use of websockets for active communication which relatively a pretty new concept in web technologies and is gonna go a long way.
+
+## End results
+
+With all the various methodologies, tools and frameworks we finally got our project working and have the entire developement pipeline published ton github as well. 
+
+You can play the game at - https://poke2se.herokuapp.com/
+
+Guide -
+1. make sure to register
+2. make sure atleast one more person is online at the time you are playing (you can just open another tab and play from both sides)
+3. voila now you can build decks and fight people with official calcualtions as per the PokeAPI
 
 
 

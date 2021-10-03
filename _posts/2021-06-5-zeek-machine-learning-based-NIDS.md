@@ -8,13 +8,8 @@ featured: false
 hidden: false
 ---
 
-# ZeekDoc
+## ZeekDoc
  
- <!-- <p align="center">
-  <img src=/Documentation/zeekLogo.png width=100>
- </p>
-  -->
-
 ## Bro/Zeek 
 
 ### What is Zeek?
@@ -30,11 +25,8 @@ Now Zeek is not just merely an IDS, due to its powerful scripting nature it can 
 <br> Further more features as per official documentation : https://docs.zeek.org/en/current/intro/index.html#features
 <br><br>
 
-Further useful links to know more about zeek:
-<br>https://zeek.org/
-<br>https://www.admin-magazine.com/Archive/2014/24/Network-analysis-with-the-Bro-Network-Security-Monitor
-<br>https://bricata.com/blog/what-is-bro-ids/ (very informative website with further links)
-<br>http://www.iraj.in/journal/journal_file/journal_pdf/3-27-139087836726-32.pdf <br>a research paper that displays a brief comparison and uses of various IDS
+For more please visit my github repo which is a collective entry level guide and tutorial for installation steps and usage:
+<br>https://github.com/munkeops/ZeekDoc
 
 
 
