@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ContactBook A CRUD application in ReactJS"
+title: "What is Docker and why is it so popular"
 author: munkeops
-categories: [react, mongodb, project]
-image: assets/images/contactbook.png
+categories: [docker]
+image: "https://pradeeploganathan.com/wp-content/uploads/2018/08/docker-cover.png"
 featured: false
 hidden: false
 ---
