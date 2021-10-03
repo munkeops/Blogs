@@ -8,10 +8,11 @@ permalink: /about
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Hi! I enjoy documenting my journey as I come across new things every day, may it be about food, scenic places I have visited, movies I liked or about projects/topics that peaked my interest. Also I am a huge Naruto Fan - Dattebayo! </p>
+<p>Hi! just documenting my journey, if something peaks you we can get in touch. Dattebayo! </p>
 
 
 <p class="mb-5"><img class="shadow-lg" src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/07/uzumaki-naruto.jpg" alt="my fav anime character naruto" /></p>
+
 
 
 <h4>Questions or comments?</h4>
@@ -24,8 +25,11 @@ permalink: /about
 
 <div class="col-md-4">
 
-<div class="sticky-top sticky-top-80">
+<!-- <div class="sticky-top sticky-top-80"> -->
+<div>
 <h5>More About Me</h5>
+<p class="mb-5"><img class="shadow-lg" src="{{ site.baseurl }}/assets/images/avatarrohan.svg" alt="my fav anime character naruto" /></p>
+
 
 <!-- <img class="author-thumb" src="{{ site.baseurl }}/{{ author.avatar }}" alt="{{ author.display_name }}"> -->
 
