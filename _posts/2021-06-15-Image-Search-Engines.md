@@ -3,7 +3,7 @@ layout: post
 title: "Image Search Engines"
 author: munkeops
 categories: [thesis,python,deep learning]
-image: "https://jaxer.org/wp-content/uploads/2012/02/2.png"
+image: "https://www.artbusinessinfo.com/uploads/4/6/6/0/46602337/bing-reverse-image-search_orig.jpg"
 featured: false
 hidden: false
 ---

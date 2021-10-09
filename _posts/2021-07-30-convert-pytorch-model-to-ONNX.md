@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Get started with Intel's OpenVINO"
+title: "How to convert a Pytorch model to ONNX?"
 author: munkeops
-categories: [computer vision, python, openvino]
-image: "https://miro.medium.com/max/1000/1*Xa8UkrkzVpyirla4TvSYeQ.jpeg"
+categories: [computer vision, python, pytorch, onnx]
+image: "https://deci.ai/wp-content/uploads/2021/05/Card-deci-pytorch-to-onnx.jpg"
 featured: false
-hidden: false
+hidden: true
 ---
 
 
@@ -22,20 +22,8 @@ Intel's OpenVINO is an inference framework that essentially optmises deeplearnin
 
 ## Supported hardware
 
-The OpenVINO framework only supports a subsection of all available intel hardwares. In fact processors such as Celeron which are cheap and edge based slow cpus which truly require the hardware acceleration do not support OpenVINO. So please be careful in checking out if your device falls under the given hardware requirements. The below link contains list of supported processors and os.
+The OpenVINO framework only supports a subsection of all available intel hardwares.
 
-https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/system-requirements.html
+## Steps to setup an API
 
-## Supported Frameworks
-
-The framework dosent support all frameworks but does support most. You can use ONNX to convert from unsupported frameworks. Below is the list of direct support
-
-* Caffe
-* TensorFlow
-* MXNet
-* ONNX
-* Kaldi
-
-## So what does OpenVINO do?
-
-## So how does OpenVINO run in inference?
+functions>classes>modules>packages>APIs maybe?

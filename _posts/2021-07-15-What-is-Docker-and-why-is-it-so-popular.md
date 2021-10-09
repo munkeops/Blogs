@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "What is Docker and why is it so popular"
+title: "What is Docker and why is it so popular?"
 author: munkeops
 categories: [docker]
 image: "https://pradeeploganathan.com/wp-content/uploads/2018/08/docker-cover.png"
 featured: false
-hidden: false
+hidden: true
 ---
 
 

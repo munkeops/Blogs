@@ -4,7 +4,7 @@ title: "ML/AI based solution that could increase Cart Conversion Rate"
 author: munkeops
 categories: [hackathon,ml,dell,python]
 image: assets/images/digitalfootprint.png
-featured: true
+featured: false
 hidden: false
 ---
 
