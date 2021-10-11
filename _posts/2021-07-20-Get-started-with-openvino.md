@@ -39,3 +39,5 @@ The framework dosent support all frameworks but does support most. You can use O
 ## So what does OpenVINO do?
 
 ## So how does OpenVINO run in inference?
+
+To run your model for inference with OpenVINO you will need to first convert it into an intermediate respresentation(IR) which has to be run with the OpenVINO inference engine.

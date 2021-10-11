@@ -17,7 +17,7 @@ permalink: /about
 
 <h4>Questions or comments?</h4>
 
-<p>Drop one in the issues section at my <a href="https://github.com/munkeops/Blogs">Github repository</a>!</p>
+<p>Drop one below, which will become an issue on my <a href="https://github.com/munkeops/Blogs">Github repository</a>!</p>
 {% assign issue = "Blogs" %}
 {% include github_issues.html %}
 

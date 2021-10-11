@@ -49,12 +49,10 @@ flaskapp>touch __init__.py
 Import the flask module and create the flask object (app) in __init__.py. Also import the views module here 
 
 ```python
-
 from flask import Flask
 app = Flask(__name__)
 
 from .views import *
-
 ```
 
 #### Step 4

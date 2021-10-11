@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I built tensorflow from source due to missing avx2"
+title: "How I built tensorflow from source due to missing avx2 [incomplete]"
 author: munkeops
 categories: [computer vision, python, tensorflow]
 image: "https://cdn-images-1.medium.com/max/1200/1*H-_-KC5YpXSR9jzeyX-5hQ.jpeg"
@@ -10,7 +10,7 @@ hidden: true
 
 
 
-This post is gonna give a gentle introduction to what is OpenVINO and how you can use it to increase vision based algorithms inference speeds. 
+Hi everybody, today I am gonna document another experience I had with installing tensorflow.  
 
 
 

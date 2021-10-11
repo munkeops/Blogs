@@ -3,7 +3,7 @@ layout: post
 title: "Zeek - An NIDS for Machine Learning"
 author: munkeops
 categories: [internship,python,nids]
-image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcozebeweging.com%2Fepeml%2FS5uRifMm9qHXVe1YWFWYNQHaHa.jpg&f=1&nofb=1"
+image: "https://zeek.org/wp-content/uploads/2019/06/logo-bro-new.png"
 featured: false
 hidden: false
 ---

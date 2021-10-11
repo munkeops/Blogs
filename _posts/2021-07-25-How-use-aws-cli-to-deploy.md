@@ -10,7 +10,7 @@ hidden: true
 
 
 
-This post is gonna give a gentle introduction to what is OpenVINO and how you can use it to increase vision based algorithms inference speeds. 
+In this post I am gonna show you how to configure and use the AWS cli to push a react project to an s3 bucket. 
 
 
 
