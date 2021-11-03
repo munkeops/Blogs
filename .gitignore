@@ -4,3 +4,6 @@ _site
 .sass-cache
 .py
 *~
+
+.obsidian
+*.py
