@@ -2,10 +2,10 @@
 layout: post
 title: "Evolution of NLP"
 author: munkeops
-categories: [thesis,nlp,deep learning]
+# categories: [thesis,nlp,deep learning]
 image: assets/images/nlp-bert.png
 featured: false
-hidden: false
+hidden: True
 ---
 
 

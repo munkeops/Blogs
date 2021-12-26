@@ -2,7 +2,7 @@
 layout: post
 title: "How to convert a Pytorch model to ONNX? [incomplete]"
 author: munkeops
-categories: [computer vision, python, pytorch, onnx]
+# categories: [computer vision, python, pytorch, onnx]
 image: "https://deci.ai/wp-content/uploads/2021/05/Card-deci-pytorch-to-onnx.jpg"
 featured: false
 hidden: true

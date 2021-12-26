@@ -2,7 +2,7 @@
 layout: post
 title: "How to use the AWS CLI to deploy a React website to an S3 bucket?"
 author: munkeops
-categories: [aws, react]
+# categories: [aws, react]
 image: "https://rms.koenig-solutions.com/Sync_data/CCE_Logo/3063-awscli.jpgL.jpg"
 featured: false
 hidden: true

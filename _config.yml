@@ -2,8 +2,12 @@
 name: "Munkeops"
 title: "Blogging"
 description: "Personal Blogs"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+# logo: 'assets/images/logo.png'
+logo: 'assets/images/avatarrohan.svg'
+
+# favicon: 'assets/images/logo.png'
+favicon: 'assets/images/avatarrohan.svg'
+
 baseurl: /Blogs
 [//]: # google_analytics: 'UA-46278016-1'
 disqus: ''

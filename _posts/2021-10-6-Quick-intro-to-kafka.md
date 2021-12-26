@@ -4,7 +4,7 @@ title: "A Quick Introduction to Kafka with docker and python"
 author: munkeops
 categories: [kafka, python, docker]
 image: "https://i.ytimg.com/vi/JYNEwSfWaNc/maxresdefault.jpg"
-featured: false
+featured: true
 hidden: false
 ---
 
@@ -165,3 +165,6 @@ for message in consumer:
 
 ```
 
+### Conclusion
+
+I hope this post helped you in understanding Kafka concepts and gave you a place to begin with developing you python application with Kafka.
